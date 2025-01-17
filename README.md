@@ -1,16 +1,5 @@
-# tesk2
+This repository contains a simple Flutter application demonstrating navigation between two screens using the Navigator widget. The app includes two screens:
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Screen 1: A starting screen with a button to navigate to Screen 2.
+Screen 2: A secondary screen with a button to return to Screen 1.
+The code showcases the use of MaterialPageRoute for screen transitions and Navigator methods (push and pop) for navigating between screens. Styling has been applied to buttons and text for clarity.
